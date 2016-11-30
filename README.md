@@ -1,2 +1,9 @@
 # research-sparkjava
-Research samples using sparkjava, lombok, jackson
+Research sample using
+
+* sparkjava
+* lombok
+* jackson
+* open-feign
+
+
