@@ -11,7 +11,7 @@
     <properties>
         <jdk.version>1.8</jdk.version>
         <slf4j.version>1.7.21</slf4j.version>
-        <logback.version>1.1.7</logback.version>
+        <logback.version>1.2.0</logback.version>
         <guava.version>29.0-jre</guava.version>
         <jackson.version>2.11.1</jackson.version>
         <sparkjava.version>2.9.2</sparkjava.version>
